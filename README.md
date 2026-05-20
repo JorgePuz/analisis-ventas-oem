@@ -1,18 +1,18 @@
-# analisis-ventas-oem
+# Analisis-ventas-oem
 Análisis de ventas - TP Organización Empresarial UTN TUP
 
 ## Integrantes
 - [Jorge Puz Benitez] — Rol: Hugo (P1) / Luis (P3)
 - [Sofia] — Rol: Paco (P2)
 
-##Escenario 
+#Escenario 
 Escenario elegido --- Análisis de ventas de una pequeña pyme
 
-##Descripcion del dataset
+#Descripcion del dataset
 
 Simlador de ventas con registros diarios, que incluye fecha de la venta y monto. Almacenado en /datos/dataset.csv
 
-#Estructura
+Estructura
 
 /datos → archivo de datos en CSV /scripts → analisis en Python /resultados → resultados generados
 
